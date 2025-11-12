@@ -1,0 +1,17 @@
+cd bakof-frete
+git init
+git add .
+git commit -m "feat: Sistema Multi-CD com 5 centros de distribuição
+
+- CD Sul (RS): Frederico Westphalen
+- CD Sudeste (SC): Joinville
+- CD Sudeste (MG): Montes Claros
+- CD Centro-Oeste (MS): Campo Grande
+- CD Nordeste (CE): Tauá
+
+Funcionalidades:
+- Integração API IBGE para coordenadas reais
+- Cálculo inteligente de distância (Haversine)
+- Seleção automática do CD mais próximo
+- Verificação de estoque via Tray API
+- Compatível 100% com Tray Commerce"
